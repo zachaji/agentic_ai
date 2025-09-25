@@ -10,7 +10,7 @@ streamlit run .\demo1.py
 
 To run from vs code, enter CTRL+SHIFT+P , select interpreter from this project
 and then select environment from the same folder (drop down appears for the project)
-Then re-open terminate and run streamlit command
+Then re-open terminal in VsCode and run streamlit command
 Browser opens with localhost and then upload files
 ----------
 
